@@ -7,5 +7,5 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     {/* 🍀 This Component index.jsx */}
     <App />
-  </React.StrictMode>,
+  </React.StrictMode>
 )
